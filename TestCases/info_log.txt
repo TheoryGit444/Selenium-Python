@@ -1,0 +1,17 @@
+2020-04-20 23:28:56,128 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-04-20 23:28:57,176 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-04-20 23:28:59,450 - Utility.Commonfunction - INFO - ravikumar is entered on Username TextBox
+2020-04-20 23:29:01,732 - Utility.Commonfunction - INFO - ravikumar@123 is entered on Password Text Box
+2020-04-20 23:29:02,265 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-04-20 23:29:03,428 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-04-20 23:29:06,919 - Utility.Commonfunction - INFO - waiting for the Profile Icon to be clickable
+2020-04-20 23:29:07,954 - Utility.Commonfunction - INFO - Profile Icon is clicked
+2020-04-20 23:29:08,486 - Utility.Commonfunction - INFO - waiting for the Profile Link to be clickable
+2020-04-20 23:29:09,494 - Utility.Commonfunction - INFO - Profile Link is clicked
+2020-04-20 23:29:09,494 - Utility.Commonfunction - INFO - page is loading...
+2020-04-20 23:29:11,008 - Utility.Commonfunction - INFO - waiting for the EditProfile Button to be clickable
+2020-04-20 23:29:12,180 - Utility.Commonfunction - INFO - EditProfile Button is clicked
+2020-04-20 23:29:26,350 - Utility.Commonfunction - INFO - waiting for the Change Pitcure Button to be clickable
+2020-04-20 23:29:27,459 - Utility.Commonfunction - INFO - Change Pitcure Button is clicked
+2020-04-20 23:29:27,459 - Utility.Commonfunction - INFO - Loading Image...
+2020-04-20 23:29:45,475 - Utility.Commonfunction - INFO - Image Loaded
