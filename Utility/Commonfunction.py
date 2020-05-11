@@ -100,7 +100,7 @@ class commonfunction():
         time.sleep(second)
 
     def pageload(self,second):
-        self.driver.set_page_load_timeout(8)
+        self.driver.set_page_load_timeout(second)
 
     def explicitwait(self, time, elementlocator, elementname):
 

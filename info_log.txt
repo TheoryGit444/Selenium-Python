@@ -1,74 +1,17 @@
-2020-04-22 17:05:09,381 - Utility.Commonfunction - INFO - Logs generated for the test
-2020-04-22 17:05:10,685 - Utility.Commonfunction - INFO - Login Link is clicked
-2020-04-22 17:05:12,981 - Utility.Commonfunction - INFO - ravikumar is entered on Username TextBox
-2020-04-22 17:05:15,376 - Utility.Commonfunction - INFO - ravikumar@123 is entered on Password Text Box
-2020-04-22 17:05:16,594 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
-2020-04-22 17:05:17,861 - Utility.Commonfunction - INFO - Login Button is clicked
-2020-04-22 17:05:18,921 - Utility.Commonfunction - INFO - waiting for the Start New Group  to be clickable
-2020-04-22 17:05:20,273 - Utility.Commonfunction - INFO - Start New Group  is clicked
-2020-04-22 17:05:27,927 - Utility.Commonfunction - INFO - House Cleaning is entered on Group Name
-2020-04-22 17:05:34,111 - Utility.Commonfunction - INFO - waiting for the Group Name to be clickable
-2020-04-22 17:05:35,446 - Utility.Commonfunction - INFO - Group Name is clicked
-2020-04-22 17:05:36,084 - Utility.Commonfunction - INFO - waiting for the Next Button to be clickable
-2020-04-22 17:05:38,803 - Utility.Commonfunction - INFO - Next Button is clicked
-2020-04-22 17:05:38,803 - Utility.Commonfunction - INFO - waiting for the Next Button to be clickable
-2020-04-22 17:05:40,276 - Utility.Commonfunction - INFO - Next Button is clicked
-2020-04-22 17:05:40,276 - Utility.Commonfunction - INFO - waiting for the Next Button to be clickable
-2020-04-22 17:05:41,548 - Utility.Commonfunction - INFO - Next Button is clicked
-2020-04-22 17:05:41,549 - Utility.Commonfunction - INFO - waiting for the Next Button to be clickable
-2020-04-22 17:05:43,047 - Utility.Commonfunction - INFO - Next Button is clicked
-2020-04-22 17:05:46,882 - Utility.Commonfunction - INFO - hi this priyanka ,I am doing cross browser testing is entered on DescriptionBox
-2020-04-22 17:05:46,882 - Utility.Commonfunction - INFO - waiting for the Next Button to be clickable
-2020-04-22 17:05:48,111 - Utility.Commonfunction - INFO - Next Button is clicked
-2020-04-22 17:05:48,112 - Utility.Commonfunction - INFO - waiting for the Next Button to be clickable
-2020-04-22 17:05:49,840 - Utility.Commonfunction - INFO - Next Button is clicked
-2020-04-22 17:05:49,840 - Utility.Commonfunction - INFO - waiting for the Next Button to be clickable
-2020-04-22 17:05:51,180 - Utility.Commonfunction - INFO - Next Button is clicked
-2020-04-22 17:05:56,756 - Utility.Commonfunction - INFO - waiting for the OK Button(confirm popup) to be clickable
-2020-04-22 17:05:58,181 - Utility.Commonfunction - INFO - OK Button(confirm popup) is clicked
-2020-04-22 17:06:14,230 - Utility.Commonfunction - INFO - Logs generated for the test
-2020-04-22 17:06:15,626 - Utility.Commonfunction - INFO - Login Link is clicked
-2020-04-22 17:06:18,458 - Utility.Commonfunction - INFO - jipriyaji@gmail.com is entered on Username TextBox
-2020-04-22 17:06:21,039 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
-2020-04-22 17:06:21,630 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
-2020-04-22 17:06:22,787 - Utility.Commonfunction - INFO - Login Button is clicked
-2020-04-22 17:06:23,975 - Utility.Commonfunction - INFO - waiting for the Status link to be clickable
-2020-04-22 17:06:25,534 - Utility.Commonfunction - INFO - Status link is clicked
-2020-04-22 17:06:26,541 - Utility.Commonfunction - INFO - waiting for the Group Item1 to be clickable
-2020-04-22 17:06:28,011 - Utility.Commonfunction - INFO - Group Item1 is clicked
-2020-04-22 17:06:29,269 - Utility.Commonfunction - INFO - waiting for the Join the Group to be clickable
-2020-04-22 17:06:30,699 - Utility.Commonfunction - INFO - Join the Group is clicked
-2020-04-22 17:06:31,242 - Utility.Commonfunction - INFO - waiting for the Next button to be clickable
-2020-04-22 17:06:32,552 - Utility.Commonfunction - INFO - Next button is clicked
-2020-04-22 17:06:32,552 - Utility.Commonfunction - INFO - waiting for the Next button to be clickable
-2020-04-22 17:06:33,952 - Utility.Commonfunction - INFO - Next button is clicked
-2020-04-22 17:06:37,202 - Utility.Commonfunction - INFO - hello this is Priyanka doing Sauce lab test on selenium with python is entered on Description Box
-2020-04-22 17:06:37,203 - Utility.Commonfunction - INFO - waiting for the Next button to be clickable
-2020-04-22 17:06:38,424 - Utility.Commonfunction - INFO - Next button is clicked
-2020-04-22 17:06:38,425 - Utility.Commonfunction - INFO - waiting for the Next button to be clickable
-2020-04-22 17:06:39,547 - Utility.Commonfunction - INFO - Next button is clicked
-2020-04-22 17:06:40,164 - Utility.Commonfunction - INFO - waiting for the Submit Button to be clickable
-2020-04-22 17:06:41,509 - Utility.Commonfunction - INFO - Submit Button is clicked
-2020-04-22 17:06:45,028 - Utility.Commonfunction - INFO - waiting for the Confirm OK to be clickable
-2020-04-22 17:06:46,339 - Utility.Commonfunction - INFO - Confirm OK is clicked
-2020-04-22 17:06:46,834 - Utility.Commonfunction - INFO - waiting for the GroupsLink to be clickable
-2020-04-22 17:06:48,229 - Utility.Commonfunction - INFO - GroupsLink is clicked
-2020-04-22 17:06:48,868 - Utility.Commonfunction - INFO - waiting for the House Cleaning Object to be clickable
-2020-04-22 17:23:54,142 - Utility.Commonfunction - INFO - Logs generated for the test
-2020-04-22 17:23:55,458 - Utility.Commonfunction - INFO - Login Link is clicked
-2020-04-22 17:23:57,862 - Utility.Commonfunction - INFO - jipriyaji@gmail.com is entered on Username TextBox
-2020-04-22 17:24:00,306 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
-2020-04-22 17:24:00,788 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
-2020-04-22 17:24:01,923 - Utility.Commonfunction - INFO - Login Button is clicked
-2020-04-22 17:24:03,500 - Utility.Commonfunction - INFO - waiting for the Status link to be clickable
-2020-04-22 17:24:04,672 - Utility.Commonfunction - INFO - Status link is clicked
-2020-04-22 17:24:05,118 - Utility.Commonfunction - INFO - waiting for the Group Item1 to be clickable
-2020-04-22 17:24:06,275 - Utility.Commonfunction - INFO - Group Item1 is clicked
-2020-04-22 17:24:07,424 - Utility.Commonfunction - INFO - waiting for the Overview Tab to be clickable
-2020-04-22 17:24:08,645 - Utility.Commonfunction - INFO - Overview Tab is clicked
-ickable
-waiting for the Overview Tab to be clickable
-waiting for the Overview Tab to be clickable
-Overview Tab is clicked
-Overview Tab is clicked
-Overview Tab is clicked
+2020-05-11 17:59:17,818 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 17:59:19,159 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 17:59:21,206 - Utility.Commonfunction - INFO - priyankacontractor is entered on Username TextBox
+2020-05-11 17:59:22,958 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
+2020-05-11 17:59:23,288 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 17:59:24,140 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 17:59:27,954 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 17:59:28,301 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 17:59:29,026 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 17:59:29,396 - Utility.Commonfunction - INFO - waiting for the MyGroups to be clickable
+2020-05-11 17:59:30,171 - Utility.Commonfunction - INFO - MyGroups is clicked
+2020-05-11 17:59:30,670 - Utility.Commonfunction - INFO - waiting for the Staus to be clickable
+2020-05-11 17:59:31,389 - Utility.Commonfunction - INFO - Staus is clicked
+2020-05-11 17:59:33,558 - Utility.Commonfunction - INFO - waiting for the Closed group to be clickable
+2020-05-11 17:59:34,419 - Utility.Commonfunction - INFO - Closed group is clicked
+2020-05-11 17:59:34,759 - Utility.Commonfunction - INFO - waiting for the Close confirm to be clickable
+2020-05-11 17:59:35,497 - Utility.Commonfunction - INFO - Close confirm is clicked

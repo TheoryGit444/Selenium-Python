@@ -21,7 +21,36 @@ class locators():
         savebutton_css= "[type='submit']"
         about_tagname="app-description"
 
+        grouplink="//ul[@role='navigation']/li[1]/a"
+        dropdown_delivary="//button[text()=' Delivery Groups ']"
+        startnewgroup="//a/span[contains(text(),'Start a delivery group')]"
+
         #startnewgroup_class="header__create-group-btn--desktop ng-star-inserted"
+
+    #DelivaryPage locators
+
+
+
+        delivary_group="//h3[text()='Delivery Group']"
+        reuseradiobutton_id="reuseGroup"
+        grocerydelivarybutton="//h3[text()='Grocery Delivery']"
+        memeberlimit_name="members-limit"
+        finishbutton="//button[text()=' Finish ']"
+
+        placeanorderbutton="//app-delivery-details-sidebar-actions/button[contains(text(),'Place')]"
+        textarea_id="description"
+
+        editorder_xpath="//app-delivery-details-sidebar-actions/button[1]"
+        leavegroup_xpath="//app-delivery-details-sidebar-actions/button[2]"
+
+        finalizeorders="//app-delivery-details-sidebar-actions/button[2]"
+        closegroup="//app-delivery-details-sidebar-actions/button[1]"
+
+        orderstab="//*[@class='group-details-header__nav']//ul[@role='navigation']/li[2]"
+
+
+
+
 
 
     #Settings page Locators
@@ -107,6 +136,10 @@ class locators():
         stars_xpath="//app-profile-reviews-form//div[@class='simple-rating-stars__stars-bottom']/span[2]"
 
         reviewtab_xpath="//*[@class='profile-header__nav']//*[@role='navigation']/li[3]"
+
+    #DeliveryPage
+
+
 
 
 

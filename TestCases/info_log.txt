@@ -1,17 +1,231 @@
-2020-04-20 23:28:56,128 - Utility.Commonfunction - INFO - Logs generated for the test
-2020-04-20 23:28:57,176 - Utility.Commonfunction - INFO - Login Link is clicked
-2020-04-20 23:28:59,450 - Utility.Commonfunction - INFO - ravikumar is entered on Username TextBox
-2020-04-20 23:29:01,732 - Utility.Commonfunction - INFO - ravikumar@123 is entered on Password Text Box
-2020-04-20 23:29:02,265 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
-2020-04-20 23:29:03,428 - Utility.Commonfunction - INFO - Login Button is clicked
-2020-04-20 23:29:06,919 - Utility.Commonfunction - INFO - waiting for the Profile Icon to be clickable
-2020-04-20 23:29:07,954 - Utility.Commonfunction - INFO - Profile Icon is clicked
-2020-04-20 23:29:08,486 - Utility.Commonfunction - INFO - waiting for the Profile Link to be clickable
-2020-04-20 23:29:09,494 - Utility.Commonfunction - INFO - Profile Link is clicked
-2020-04-20 23:29:09,494 - Utility.Commonfunction - INFO - page is loading...
-2020-04-20 23:29:11,008 - Utility.Commonfunction - INFO - waiting for the EditProfile Button to be clickable
-2020-04-20 23:29:12,180 - Utility.Commonfunction - INFO - EditProfile Button is clicked
-2020-04-20 23:29:26,350 - Utility.Commonfunction - INFO - waiting for the Change Pitcure Button to be clickable
-2020-04-20 23:29:27,459 - Utility.Commonfunction - INFO - Change Pitcure Button is clicked
-2020-04-20 23:29:27,459 - Utility.Commonfunction - INFO - Loading Image...
-2020-04-20 23:29:45,475 - Utility.Commonfunction - INFO - Image Loaded
+2020-05-11 15:04:02,297 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 15:04:03,339 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 15:04:04,773 - Utility.Commonfunction - INFO - jipriyaji@gmail.com is entered on Username TextBox
+2020-05-11 15:04:05,959 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
+2020-05-11 15:04:06,243 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 15:04:06,922 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 15:04:10,353 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 15:04:10,645 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 15:04:11,303 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 15:04:11,760 - Utility.Commonfunction - INFO - waiting for the Status to be clickable
+2020-05-11 15:04:12,421 - Utility.Commonfunction - INFO - Status is clicked
+2020-05-11 15:04:33,999 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 15:04:34,878 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 15:04:35,949 - Utility.Commonfunction - INFO - priyankacontractor is entered on Username TextBox
+2020-05-11 15:04:36,939 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
+2020-05-11 15:04:37,172 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 15:04:37,692 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 15:04:40,601 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 15:04:40,870 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 15:04:41,424 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 15:04:41,676 - Utility.Commonfunction - INFO - waiting for the MyGroups to be clickable
+2020-05-11 15:04:42,222 - Utility.Commonfunction - INFO - MyGroups is clicked
+2020-05-11 15:04:42,512 - Utility.Commonfunction - INFO - waiting for the Status to be clickable
+2020-05-11 15:04:43,055 - Utility.Commonfunction - INFO - Status is clicked
+2020-05-11 15:05:07,795 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 15:05:09,771 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 15:05:11,405 - Utility.Commonfunction - INFO - jipriyaji@gmail.com is entered on Username TextBox
+2020-05-11 15:05:12,603 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
+2020-05-11 15:05:12,864 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 15:05:13,461 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 15:05:16,786 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 15:05:17,092 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 15:05:17,747 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 15:05:18,100 - Utility.Commonfunction - INFO - waiting for the MyGroups to be clickable
+2020-05-11 15:05:18,766 - Utility.Commonfunction - INFO - MyGroups is clicked
+2020-05-11 15:05:19,076 - Utility.Commonfunction - INFO - waiting for the Saved to be clickable
+2020-05-11 15:05:19,749 - Utility.Commonfunction - INFO - Saved is clicked
+2020-05-11 15:05:44,499 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 15:05:45,515 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 15:05:46,933 - Utility.Commonfunction - INFO - priyankacontractor is entered on Username TextBox
+2020-05-11 15:05:48,127 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
+2020-05-11 15:05:48,401 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 15:05:48,998 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 15:05:52,380 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 15:05:52,659 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 15:05:53,255 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 15:05:53,605 - Utility.Commonfunction - INFO - waiting for the MyGroups to be clickable
+2020-05-11 15:05:54,217 - Utility.Commonfunction - INFO - MyGroups is clicked
+2020-05-11 15:05:54,492 - Utility.Commonfunction - INFO - waiting for the Saved to be clickable
+2020-05-11 15:05:55,100 - Utility.Commonfunction - INFO - Saved is clicked
+2020-05-11 15:06:29,707 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 15:06:30,796 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 15:06:32,248 - Utility.Commonfunction - INFO - priyankacontractor is entered on Username TextBox
+2020-05-11 15:06:33,426 - Utility.Commonfunction - INFO - priyanka@123 is entered on Password Text Box
+2020-05-11 15:06:33,707 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 15:06:34,282 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 15:06:37,625 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 15:06:37,901 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 15:06:38,528 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 15:06:53,064 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 15:06:54,148 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 15:06:55,582 - Utility.Commonfunction - INFO - ravikumar is entered on Username TextBox
+2020-05-11 15:06:56,914 - Utility.Commonfunction - INFO - ravikumar@123 is entered on Password Text Box
+2020-05-11 15:06:57,200 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 15:06:57,822 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 15:07:01,172 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 15:07:01,450 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 15:07:02,105 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 15:07:02,423 - Utility.Commonfunction - INFO - waiting for the Status to be clickable
+2020-05-11 15:07:03,210 - Utility.Commonfunction - INFO - Status is clicked
+2020-05-11 15:07:28,100 - Utility.Commonfunction - INFO - Logs generated for the test
+2020-05-11 15:07:29,212 - Utility.Commonfunction - INFO - Login Link is clicked
+2020-05-11 15:07:30,868 - Utility.Commonfunction - INFO - ravikumar is entered on Username TextBox
+2020-05-11 15:07:32,200 - Utility.Commonfunction - INFO - ravikumar@123 is entered on Password Text Box
+2020-05-11 15:07:32,482 - Utility.Commonfunction - INFO - waiting for the Login Button to be clickable
+2020-05-11 15:07:33,174 - Utility.Commonfunction - INFO - Login Button is clicked
+2020-05-11 15:07:36,650 - Utility.Commonfunction - INFO - GroupLink is clicked
+2020-05-11 15:07:36,933 - Utility.Commonfunction - INFO - waiting for the Delivary Button to be clickable
+2020-05-11 15:07:37,536 - Utility.Commonfunction - INFO - Delivary Button is clicked
+2020-05-11 15:07:37,887 - Utility.Commonfunction - INFO - waiting for the MyGroups to be clickable
+2020-05-11 15:07:38,521 - Utility.Commonfunction - INFO - MyGroups is clicked
+2020-05-11 15:07:38,830 - Utility.Commonfunction - INFO - waiting for the Status to be clickable
+2020-05-11 15:07:39,408 - Utility.Commonfunction - INFO - Status is clicked
+2020-05-11 15:07:39,692 - Utility.Commonfunction - INFO - waiting for the GroupItem to be clickable
+2020-05-11 15:07:40,238 - Utility.Commonfunction - INFO - GroupItem is clicked
+to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+Status is clicked
+Status is clicked
+Status is clicked
+Status is clicked
+Status is clicked
+Status is clicked
+Logs generated for the test
+Logs generated for the test
+Logs generated for the test
+Logs generated for the test
+Logs generated for the test
+Logs generated for the test
+Logs generated for the test
+Login Link is clicked
+Login Link is clicked
+Login Link is clicked
+Login Link is clicked
+Login Link is clicked
+Login Link is clicked
+Login Link is clicked
+ravikumar is entered on Username TextBox
+ravikumar is entered on Username TextBox
+ravikumar is entered on Username TextBox
+ravikumar is entered on Username TextBox
+ravikumar is entered on Username TextBox
+ravikumar is entered on Username TextBox
+ravikumar is entered on Username TextBox
+ravikumar@123 is entered on Password Text Box
+ravikumar@123 is entered on Password Text Box
+ravikumar@123 is entered on Password Text Box
+ravikumar@123 is entered on Password Text Box
+ravikumar@123 is entered on Password Text Box
+ravikumar@123 is entered on Password Text Box
+ravikumar@123 is entered on Password Text Box
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+waiting for the Login Button to be clickable
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+Login Button is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+GroupLink is clicked
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+waiting for the Delivary Button to be clickable
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+Delivary Button is clicked
+waiting for the MyGroups to be clickable
+waiting for the MyGroups to be clickable
+waiting for the MyGroups to be clickable
+waiting for the MyGroups to be clickable
+waiting for the MyGroups to be clickable
+waiting for the MyGroups to be clickable
+waiting for the MyGroups to be clickable
+MyGroups is clicked
+MyGroups is clicked
+MyGroups is clicked
+MyGroups is clicked
+MyGroups is clicked
+MyGroups is clicked
+MyGroups is clicked
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+waiting for the Status to be clickable
+Status is clicked
+Status is clicked
+Status is clicked
+Status is clicked
+Status is clicked
+Status is clicked
+Status is clicked
+waiting for the GroupItem to be clickable
+waiting for the GroupItem to be clickable
+waiting for the GroupItem to be clickable
+waiting for the GroupItem to be clickable
+waiting for the GroupItem to be clickable
+waiting for the GroupItem to be clickable
+waiting for the GroupItem to be clickable
+GroupItem is clicked
+GroupItem is clicked
+GroupItem is clicked
+GroupItem is clicked
+GroupItem is clicked
+GroupItem is clicked
+GroupItem is clicked

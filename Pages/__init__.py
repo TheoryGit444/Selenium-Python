@@ -3,3 +3,4 @@ from Pages import Profilepage
 from Pages import SettingsPage
 from Pages import GroupPage
 from Pages import OfferPage
+from Pages import DelivaryPage

@@ -3,6 +3,7 @@ from Utility.Commonfunction import commonfunction
 import time
 from Pages.SettingsPage import settingspage
 from Pages.GroupPage import grouppage
+from Pages.DelivaryPage import delivarypage
 
 class profilepage():
 
@@ -45,6 +46,29 @@ class profilepage():
 
         self.envelope=locators.messageicon_css
         self.messagereceived=locators.messagetext_xpath
+        self.grouplink=locators.grouplink
+        self.delivarybutton=locators.dropdown_delivary
+        self.startnewgroup=locators.startnewgroup
+
+
+    def clickonDelivaryGroup(self):
+
+        self.obj.pageload(8)
+        self.obj.sleep(2)
+
+        GroupLink=self.driver.find_element_by_xpath(self.grouplink)
+        self.obj.clickOnLink(GroupLink, "GroupLink")
+
+        delivary=self.driver.find_element_by_xpath(self.delivarybutton)
+        self.obj.clickOnButton(delivary,"Delivary Button")
+        return delivarypage(self.driver, self.obj)
+
+
+
+
+
+
+
 
 
     def getRecentMessageReceived(self):
