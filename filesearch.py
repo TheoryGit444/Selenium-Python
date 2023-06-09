@@ -1,3 +1,6 @@
+""" write a program to read the file.
+search for the keyword "Infosys DOG", if string is found, copy that line to the other new file."""
+
 
 file_reader=open("InfosyDOG.txt","r")
 
