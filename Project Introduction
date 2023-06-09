@@ -1,0 +1,2 @@
+The scripts are written for Cross browser testing using Lambda Service offered by Amazon cloud Services, where Scripts are targeted to run on different browser and Oerating System highly used my Current Users.
+The Scripts are written for Zuuddo Application developed my Atuz team of Developers to provide services to End customers of Raleigh, North Carolina by Connecting different vendors across the region.
